@@ -1,12 +1,12 @@
-﻿<h1 id="-p-align-center-welcome-to-my-github-p-"><p align =center> 🐱 Welcome to my github 👨‍💻 </p></h1>
+﻿<h1 id="-p-align-center-welcome-to-my-github-p-"><p align =center>Welcome to my Github !</p></h1>
 
 <p align =center><img src="https://gifsec.com/wp-content/uploads/2023/01/luffy-gif-36.gif" alt="alt text"></p>
 
 <h2 id="-about-me-">💫 About Me:</h2>
 <p>🍷 French<br><br>
 💻 42 Perpignan student<br><br>
-📅 Actually working on Cub3D (42 C Project)<br><br>
-🐣 Work for Nug&#39;s Inc. (future best app)<br><br>
+🧠 Actually working on Cub3D (42 C Project)<br><br>
+⚡️ Currently building a new Startup company<br><br>
 🧐 Actually learning C++ and Flutter<br><br>
 🐐 Messi is forever the best</p>
 
