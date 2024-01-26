@@ -5,7 +5,7 @@
 <h2 id="-about-me-">💫 About Me:</h2>
 <p>🍷 French<br><br>
 💻 42 Perpignan student<br><br>
-🧠 Actually working on Cub3D (42 C Project)<br><br>
+🧠 Actually working on CPP modules (42 projects for learning C++)<br><br>
 ⚡️ Currently building a new Startup company<br><br>
 🧐 Actually learning C++ and Flutter<br><br>
 🐐 Messi is forever the best</p>
